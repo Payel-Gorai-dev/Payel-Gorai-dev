@@ -2,9 +2,10 @@
 👋 Hi! I'm Payel Gorai<br><br>💻 A passionate Web Developer who loves building clean, responsive, and user-friendly websites.<br><br>🌱 Currently improving my skills in Frontend and Backend Development and exploring new technologies.<br><br>🚀 I enjoy turning creative ideas into real-world web projects.<br><br>🛠️ Tech Stack: HTML | CSS | JavaScript | PHP<br><br>📚 Always learning, experimenting, and growing as a developer.<br><br>🤝 Open to learning opportunities, collaborations, and exciting projects.<br><br>✨ My goal is to become a skilled Full Stack Developer and build impactful digital experiences.<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://www.facebook.com/share/19TVDgjJeb/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/little_butterfly_official_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/payel-gorai-215a1b327/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://www.youtube.com/channel/UCLYw4qVhAfphnHSW0Ce_DEg) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:payelgorai9907@gmail.com)
+
 
 
 # 💻 Tech Stack:

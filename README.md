@@ -4,8 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://www.facebook.com/share/19TVDgjJeb/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/little_butterfly_official_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/payel-gorai-215a1b327/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@UCLYw4qVhAfphnHSW0Ce_DEg) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:payelgorai9907@gmail.com)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://www.facebook.com/share/19TVDgjJeb/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/little_butterfly_official_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/payel-gorai-215a1b327/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://www.youtube.com/channel/UCLYw4qVhAfphnHSW0Ce_DEg) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:payelgorai9907@gmail.com)
 
 
 # 💻 Tech Stack:
